@@ -1,0 +1,23 @@
+{
+  "name": "@huangjs888/rsa-encrypt",
+  "version": "1.0.0",
+  "description": "RSA Encrypt",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangjs888/rsa-encrypt.git"
+  },
+  "keywords": "rsa encrypt",
+  "author": "Huangjs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangjs888/rsa-encrypt/issues"
+  },
+  "homepage": "https://github.com/huangjs888/rsa-encrypt#readme"
+}
