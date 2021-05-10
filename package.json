@@ -1,6 +1,6 @@
 {
   "name": "@huangjs888/rsa-encrypt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "RSA Encrypt",
   "main": "index.js",
   "directories": {
